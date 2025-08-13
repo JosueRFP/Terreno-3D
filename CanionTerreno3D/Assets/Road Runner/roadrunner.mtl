@@ -1,0 +1,20 @@
+# Material file for roadrunner.obj
+
+newmtl RR:BODY
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd RdRun.png
+
+newmtl RR:L_EYE
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.0 0.0 0.0
+	Ka 0.0 0.0 0.0
+	map_Kd RdRun_Eyes64.png
+
